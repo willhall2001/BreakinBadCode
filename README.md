@@ -6,13 +6,20 @@ Alistair Mascarenhas
 James Wagner
 
 ## Structure of Repository 
-Final 
-Includes a detailed README.md file which explains how to access your data and run your analysis and/or train your model.
+All the raw data can be accessed in the "Final_DataFrames" folder 
+- This folder containes each chunk of raw data used throughout the coe blocks 
+
+To access this data, the read_csv codes present in each chunk will have to be changed 
+
+Each of the models can be ran with no issue
+- Processing time is low, so "Run All" can be used on each of the "Machine_Learning_Model" files
+
 ## Attribution Table: 
+James Wagner
+- Code Section 01
+
 William Halloran 
-- Code sections 01, 02, 03, 04, and 05 
+- Code sections 02, 03, 04, 05, and 06 
 
 Alistair Mascarenhas
-- Code section 03, and xx
-
-James Wagner
+- Code section 03, and 07
