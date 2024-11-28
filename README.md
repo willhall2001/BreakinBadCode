@@ -19,7 +19,7 @@ James Wagner
 - Code Section 01
 
 William Halloran 
-- Code sections 02, 03, 04, 05, and 06 
+- Code sections 02, 03, 04, 05, 06, and 08
 
 Alistair Mascarenhas
 - Code section 03, and 07
